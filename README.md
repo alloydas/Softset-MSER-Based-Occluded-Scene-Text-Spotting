@@ -10,3 +10,9 @@ cd Softset-MSER-Based-Occluted-Scene-Text-Spotting
 ```bash
 unzip occluded_dataset.zip
 ```
+
+### Step3: Detection
+Please refer to the detection folder and follow the instructions!!!
+
+### Step4: Recognition
+Please refer to the recognition folder and follow the instructions!!!
